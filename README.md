@@ -4,6 +4,29 @@
 18 years old, I'm a simple developer, student of Computer Engineering.
 - More at [matheustonon.dev](matheustonon.dev). *(SOON)*
 
+## Tech Stack
+
+<div style="display: inline-block;">
+    <img align="center" alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="JAVASCRIPT" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="PHP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+    <img align="center" alt="CSHARP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <img align="center" alt="SQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="SQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</div>
+
+<br><br>
+
+<div align="center">
+  <a href="https://github.com/matheustonon1">
+    <p align"center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheustonondev&theme=algolia&show_icons=true&locale=en" alt="matheustonon1"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustonondev&layout=compact&langs_count=7&theme=algolia" alt="matheustonon1"/>
+    </p>
+</div>
+
+<br><br>
+
 ## Social Links
 
 <p align="left">
