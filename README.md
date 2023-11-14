@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://github.com/matheustonon1">
-    <p align"center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheustonondev&theme=algolia&show_icons=true&locale=en" alt="matheustonon1"/>
+    <p align"center"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheustonon1theme=dark&show_icons=true&locale=en" alt="matheustonon1"/>
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustonondev&layout=compact&langs_count=7&theme=algolia" alt="matheustonon1"/>
     </p>
 </div>
