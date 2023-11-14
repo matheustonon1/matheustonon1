@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, I'm Matheus Tonon</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheustonon1&color=gray" alt="Profile views" /> </p>
 
 18 years old, I'm a simple developer, student of Computer Engineering.
 - More at [matheustonon.dev](matheustonon.dev). *(SOON)*
