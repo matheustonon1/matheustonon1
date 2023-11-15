@@ -30,7 +30,7 @@
 
 ## Social Links
 
-<div style="text-decoration:none;">
+<div style="text-decoration:none">
     <p align="left">
         <a href="https://www.youtube.com/@mathxustonon/" target="_blank">
             <img align="center" src="https://img.shields.io/badge/-Matheus Tonon-05122A?style=flat&logo=youtube" alt="youtube"/>
