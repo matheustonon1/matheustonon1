@@ -28,6 +28,7 @@
 
 - Desenvolvendo o [**Urban Grid**](https://github.com/matheustonon1/urban-grid), meu Trabalho de Conclusão de Curso.
 - Próximos passos do projeto: avisos em tempo real para os órgãos, validação de órgão por CNPJ e link oficial, segundo fator para contas de órgão e migração para o Prisma 7.
+- Mantendo a [**Helena**](https://github.com/helenacry/helena-bot), meu bot de economia e RPG para o Discord.
 
 ## Com o que posso ajudar
 
@@ -65,8 +66,8 @@
 ## Projetos em destaque
 
 - <a href="https://github.com/matheustonon1/urban-grid"><img src="https://img.shields.io/static/v1?label=&message=Urban%20Grid&color=0A52C4&labelColor=0E1520&style=flat&logo=nextdotjs&logoColor=EDF1F7" alt="Urban Grid" /></a> - plataforma de reclamações urbanas: cidadãos registram problemas, órgãos públicos respondem oficialmente e quem reclamou avalia a resolução. Tem moderação assistida por IA, 228 testes unitários e 158 testes de ponta a ponta. <a href="https://github.com/matheustonon1/urban-grid/actions/workflows/ci.yml"><img src="https://github.com/matheustonon1/urban-grid/actions/workflows/ci.yml/badge.svg" alt="CI do Urban Grid" align="center" /></a>
+- <a href="https://github.com/helenacry/helena-bot"><img src="https://img.shields.io/static/v1?label=&message=Helena&color=5865F2&labelColor=0E1520&style=flat&logo=discord&logoColor=EDF1F7" alt="Helena" /></a> - bot de economia e RPG para o Discord, no ar em [helena.discloud.dev](https://helena.discloud.dev/). Cada servidor tem a sua economia, com trabalho, banco, loja, duelos, casamento e crime. Desenvolvido com [agorismo](https://github.com/agorismo).
 - <a href="https://github.com/matheustonon1/project_game"><img src="https://img.shields.io/static/v1?label=&message=Kitchen%20Kunai&color=FFC20E&labelColor=0E1520&style=flat&logo=lua&logoColor=EDF1F7" alt="Kitchen Kunai" /></a> - jogo em Lua com LÖVE, inspirado no minijogo ConSumo de *Bully* e criado para a disciplina de Multimídia.
-- <a href="https://github.com/matheustonon1/algoritmoafd"><img src="https://img.shields.io/static/v1?label=&message=algoritmoafd&color=7EA6FF&labelColor=0E1520&style=flat&logo=python&logoColor=EDF1F7" alt="algoritmoafd" /></a> - simulador de autômato finito determinístico em Python.
 
 <details>
   <summary>Capturas do Urban Grid</summary>
@@ -87,7 +88,7 @@
 
 ## Tecnologias
 
-- **No dia a dia:** TypeScript, JavaScript, React, Next.js, Tailwind CSS, Prisma, MySQL, Docker, Vitest e Playwright
+- **No dia a dia:** TypeScript, JavaScript, React, Next.js, Tailwind CSS, Prisma, MySQL, Node.js, Docker, Vitest e Playwright
 - **Também já usei:** Python, Lua, PHP, C# e MongoDB
 
 ## Estatísticas
