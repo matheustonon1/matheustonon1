@@ -1,50 +1,33 @@
-<h1 align="left">Hi 👋, I'm Matheus Tonon</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheustonon1&color=gray" alt="Profile views" /> </p>
+# Matheus Tonon
 
-20 years old, I'm a simple developer, student of Computer Engineering.
-- More at [matheustonon.dev](matheustonon.dev). *(SOON)*
+Estudante de Engenharia de Computação. Desenvolvo aplicações web completas com TypeScript e Next.js, do banco de dados à interface.
 
-## Tech Stack
+## Projeto em destaque
 
-<div style="display: inline-block;">
-    <img align="center" alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="JAVASCRIPT" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="PHP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-    <img align="center" alt="CSHARP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img align="center" alt="SQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="SQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-</div>
+### [Urban Grid](https://github.com/matheustonon1/urban-grid)
 
-<br><br>
+Plataforma de reclamações urbanas, desenvolvida como Trabalho de Conclusão de Curso. Cidadãos registram problemas do bairro, órgãos públicos respondem oficialmente e quem reclamou avalia se o problema foi resolvido.
 
-<div align="center">
-  <a href="https://github.com/matheustonon1">
-    <p align"center">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheustonon1&theme=github_dark&show_icons=true&locale=en" alt="matheustonondev"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustonon1&layout=compact&langs_count=7&theme=github_dark" alt="matheus"/>
-    </p>
-</div>
+<a href="https://github.com/matheustonon1/urban-grid">
+  <img src="https://raw.githubusercontent.com/matheustonon1/urban-grid/main/docs/capturas/home.webp" alt="Página inicial do Urban Grid" width="100%">
+</a>
 
-<br><br>
+- **Moderação assistida por IA:** o Gemini analisa textos e imagens antes da publicação, com revisão humana nos casos de dúvida e direito de contestação.
+- **Qualidade automatizada:** 228 testes unitários (Vitest) e 158 testes de ponta a ponta (Playwright), executados no GitHub Actions com auditoria de dependências.
+- **Segurança e privacidade:** autenticação em duas etapas, medidas antifake no cadastro e cuidados com a LGPD.
+- **Produto completo:** painéis para cidadão, órgão público e moderação, tema claro e escuro, interface em português e inglês.
 
-## Social Links
+**Stack:** Next.js 16, React 19, TypeScript, Tailwind CSS, Prisma, MySQL e Auth.js.
 
+## Outros projetos
 
-<p align="left">
-    <a href="https://www.youtube.com/@mathxustonon/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-Matheus Tonon-05122A?style=flat&logo=youtube" alt="youtube"/>
-    </a>
-    <a href="https://twitch.tv/mathxustonon" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-mathxustonon-05122A?style=flat&logo=twitch" alt="twitch"/>  
-    </a>
-    <a href="https://www.linkedin.com/in/mathxustonon/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-mathxustonon-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-    </a>
-    <a href="https://instagram.com/mathxustonon" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-mathxustonon-05122A?style=flat&logo=instagram" alt="instagram"/>
-    </a>
-    <a href="https://twitter.com/mathxustonon" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-mathxustonon-05122A?style=flat&logo=twitter" alt="twitter"/>
-    </a>
-</p>
+**[Kitchen Kunai](https://github.com/matheustonon1/project_game):** jogo em Lua criado para a disciplina de Multimídia.
+
+## Tecnologias
+
+- **Uso no dia a dia:** TypeScript, JavaScript, React, Next.js, Tailwind CSS, Prisma, MySQL, Docker, Vitest e Playwright
+- **Também já usei:** Python, Lua, PHP, C# e MongoDB
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/mathxustonon/) · [X](https://twitter.com/mathxustonon) · [Twitch](https://twitch.tv/mathxustonon) · [Instagram](https://instagram.com/mathxustonon)
