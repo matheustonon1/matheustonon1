@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="titulo">
+  <title id="titulo">Matheus Tonon: desenvolvedor full-stack, TypeScript e Next.js</title>
+  <style>
+    .rua { fill: none; stroke: #2A3850; stroke-width: 2; }
+    .pulso { fill: none; stroke-width: 3; stroke-linecap: round; stroke-dasharray: 44 756; animation: correr 9s linear infinite; }
+    .azul { stroke: #7EA6FF; }
+    .amarelo { stroke: #FFC20E; }
+    .d2 { animation-delay: -3s; }
+    .d3 { animation-delay: -6s; }
+    .brilho { animation: varrer 7s ease-in-out infinite alternate; }
+    @keyframes correr { to { stroke-dashoffset: -800; } }
+    @keyframes varrer { to { transform: translateX(-700px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .pulso, .brilho { animation: none; }
+    }
+  </style>
+  <defs>
+    <pattern id="quadras" width="60" height="60" patternUnits="userSpaceOnUse">
+      <rect x="6" y="6" width="48" height="48" rx="4" fill="#121823"/>
+    </pattern>
+    <radialGradient id="foco" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#0E1520"/>
+      <stop offset="62%" stop-color="#0E1520" stop-opacity=".92"/>
+      <stop offset="100%" stop-color="#0E1520" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nome" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#EDF1F7"/>
+      <stop offset="30%" stop-color="#7EA6FF"/>
+      <stop offset="50%" stop-color="#FFC20E"/>
+      <stop offset="70%" stop-color="#7EA6FF"/>
+      <stop offset="100%" stop-color="#EDF1F7"/>
+    </linearGradient>
+    <clipPath id="texto-nome">
+      <text x="600" y="162" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="72" font-weight="700">Matheus Tonon</text>
+    </clipPath>
+    <clipPath id="moldura">
+      <rect width="1200" height="300" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#moldura)">
+    <rect width="1200" height="300" fill="#0E1520"/>
+    <rect width="1200" height="300" fill="url(#quadras)"/>
+
+    <path class="rua" d="M0 60H360V240H720V60H1200"/>
+    <path class="rua" d="M0 240H180V120H540V180H1020V240H1200"/>
+    <path class="pulso azul" d="M0 60H360V240H720V60H1200" pathLength="800"/>
+    <path class="pulso amarelo d2" d="M0 240H180V120H540V180H1020V240H1200" pathLength="800"/>
+    <path class="pulso azul d3" d="M0 240H180V120H540V180H1020V240H1200" pathLength="800"/>
+
+    <ellipse cx="600" cy="150" rx="470" ry="150" fill="url(#foco)"/>
+
+    <g clip-path="url(#texto-nome)">
+      <rect class="brilho" x="0" y="80" width="1900" height="110" fill="url(#nome)"/>
+    </g>
+
+    <text x="600" y="210" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="24" fill="#A9B5C6">full-stack · typescript · next.js</text>
+  </g>
+</svg>
