@@ -19,13 +19,7 @@
   </a>
 </p>
 
-Oi, eu sou o Matheus. Estudo Engenharia de Computação no Centro Universitário Regional de Espírito Santo do Pinhal e desenvolvo aplicações web completas com TypeScript e Next.js, do banco de dados à interface.
-
-## Foco atual
-
-- Desenvolvendo o [**Urban Grid**](https://github.com/matheustonon1/urban-grid), meu Trabalho de Conclusão de Curso.
-- Próximos passos do projeto: avisos em tempo real para os órgãos, validação de órgão por CNPJ e link oficial, segundo fator para contas de órgão e migração para o Prisma 7.
-- Mantendo a [**Helena**](https://github.com/helenacry/helena-bot), meu bot de economia e RPG para o Discord.
+Oi, eu sou o Matheus. Estudo Engenharia de Computação e desenvolvo aplicações web completas com TypeScript e Next.js, do banco de dados à interface.
 
 ## Com o que posso ajudar
 
