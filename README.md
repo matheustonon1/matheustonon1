@@ -29,12 +29,6 @@ Oi, eu sou o Matheus. Estudo Engenharia de Computação no Centro Universitário
 
 ## Com o que posso ajudar
 
-```text
-╭─ COM O QUE POSSO AJUDAR ──────────────────────╮
-│ web full-stack · testes e ci · ia aplicada    │
-╰───────────────────────────────────────────────╯
-```
-
 <table>
   <tbody>
     <tr>
