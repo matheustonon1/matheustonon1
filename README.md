@@ -19,10 +19,7 @@
   </a>
 </p>
 
-## TL;DR
-
-> [!NOTE]
-> Estudante de Engenharia de Computação no Centro Universitário Regional de Espírito Santo do Pinhal. Desenvolvo aplicações web completas com TypeScript e Next.js, do banco de dados à interface, com testes e CI desde o começo.
+Oi, eu sou o Matheus. Estudo Engenharia de Computação no Centro Universitário Regional de Espírito Santo do Pinhal e desenvolvo aplicações web completas com TypeScript e Next.js, do banco de dados à interface.
 
 ## Foco atual
 
