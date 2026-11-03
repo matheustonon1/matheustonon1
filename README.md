@@ -85,7 +85,7 @@ Oi, eu sou o Matheus. Estudo Engenharia de Computação e desenvolvo aplicaçõe
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/mathxustonon/) · [X](https://twitter.com/mathxustonon) · [Twitch](https://twitch.tv/mathxustonon) · [Instagram](https://www.instagram.com/mathxusreis/)
+[LinkedIn](https://www.linkedin.com/in/mathxustonon/) · [X](https://twitter.com/mathxustonon) · [Instagram](https://www.instagram.com/mathxusreis/)
 
 ## Atividade recente
 
