@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://github.com/matheustonon1?tab=followers">
-    <img src="https://img.shields.io/github/followers/matheustonon1?style=flat&logo=github&label=Seguidores&labelColor=0E1520&color=0A52C4" alt="Seguidores no GitHub" />
+    <img src="https://img.shields.io/github/followers/matheustonon1?style=flat&logo=github&label=Seguidores&labelColor=172033&color=2347F5" alt="Seguidores no GitHub" />
   </a>
   <a href="https://github.com/matheustonon1?tab=repositories">
-    <img src="https://img.shields.io/github/stars/matheustonon1?style=flat&logo=github&label=Estrelas&labelColor=0E1520&color=FFC20E" alt="Estrelas no GitHub" />
+    <img src="https://img.shields.io/github/stars/matheustonon1?style=flat&logo=github&label=Estrelas&labelColor=172033&color=2347F5" alt="Estrelas no GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/mathxustonon/">
-    <img src="https://img.shields.io/badge/LinkedIn-mathxustonon-0A52C4?style=flat&labelColor=0E1520" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-mathxustonon-2347F5?style=flat&labelColor=172033" alt="LinkedIn" />
   </a>
   <a href="https://github.com/matheustonon1/matheustonon1/actions/workflows/atualizar-readme.yml">
     <img src="https://github.com/matheustonon1/matheustonon1/actions/workflows/atualizar-readme.yml/badge.svg" alt="Status da atualização automática do README" />
@@ -50,9 +50,9 @@ Oi, eu sou o Matheus. Estudo Engenharia de Computação e desenvolvo aplicaçõe
 
 ## Projetos em destaque
 
-- <a href="https://github.com/matheustonon1/urban-grid"><img src="https://img.shields.io/static/v1?label=&message=Urban%20Grid&color=0A52C4&labelColor=0E1520&style=flat&logo=nextdotjs&logoColor=EDF1F7" alt="Urban Grid" /></a> - plataforma de reclamações urbanas: cidadãos registram problemas, órgãos públicos respondem oficialmente e quem reclamou avalia a resolução. Tem moderação assistida por IA, 228 testes unitários e 158 testes de ponta a ponta. <a href="https://github.com/matheustonon1/urban-grid/actions/workflows/ci.yml"><img src="https://github.com/matheustonon1/urban-grid/actions/workflows/ci.yml/badge.svg" alt="CI do Urban Grid" align="center" /></a>
-- <a href="https://github.com/helenacry/helena-bot"><img src="https://img.shields.io/static/v1?label=&message=Helena&color=5865F2&labelColor=0E1520&style=flat&logo=discord&logoColor=EDF1F7" alt="Helena" /></a> - bot de economia e RPG para o Discord, no ar em [helena.discloud.dev](https://helena.discloud.dev/). Cada servidor tem a sua economia, com trabalho, banco, loja, duelos, casamento e crime. Desenvolvido com [agorismo](https://github.com/agorismo).
-- <a href="https://github.com/matheustonon1/project_game"><img src="https://img.shields.io/static/v1?label=&message=Kitchen%20Kunai&color=FFC20E&labelColor=0E1520&style=flat&logo=lua&logoColor=EDF1F7" alt="Kitchen Kunai" /></a> - jogo em Lua com LÖVE, inspirado no minijogo ConSumo de *Bully* e criado para a disciplina de Multimídia.
+- <a href="https://github.com/matheustonon1/urban-grid"><img src="https://img.shields.io/static/v1?label=&message=Urban%20Grid&color=2347F5&labelColor=172033&style=flat&logo=nextdotjs&logoColor=F1EFE7" alt="Urban Grid" /></a> - plataforma de reclamações urbanas: cidadãos registram problemas, órgãos públicos respondem oficialmente e quem reclamou avalia a resolução. Tem moderação assistida por IA, 228 testes unitários e 158 testes de ponta a ponta. <a href="https://github.com/matheustonon1/urban-grid/actions/workflows/ci.yml"><img src="https://github.com/matheustonon1/urban-grid/actions/workflows/ci.yml/badge.svg" alt="CI do Urban Grid" align="center" /></a>
+- <a href="https://github.com/helenacry/helena-bot"><img src="https://img.shields.io/static/v1?label=&message=Helena&color=2347F5&labelColor=172033&style=flat&logo=discord&logoColor=F1EFE7" alt="Helena" /></a> - bot de economia e RPG para o Discord, no ar em [helena.discloud.dev](https://helena.discloud.dev/). Cada servidor tem a sua economia, com trabalho, banco, loja, duelos, casamento e crime. Desenvolvido com [agorismo](https://github.com/agorismo).
+- <a href="https://github.com/matheustonon1/project_game"><img src="https://img.shields.io/static/v1?label=&message=Kitchen%20Kunai&color=2347F5&labelColor=172033&style=flat&logo=lua&logoColor=F1EFE7" alt="Kitchen Kunai" /></a> - jogo em Lua com LÖVE, inspirado no minijogo ConSumo de *Bully* e criado para a disciplina de Multimídia.
 
 <details>
   <summary>Capturas do Urban Grid</summary>
@@ -79,8 +79,14 @@ Oi, eu sou o Matheus. Estudo Engenharia de Computação e desenvolvo aplicaçõe
 ## Estatísticas
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=matheustonon1&show_icons=true&hide_rank=true&hide_border=true&bg_color=0E1520&title_color=7EA6FF&text_color=EDF1F7&icon_color=FFC20E&border_radius=10&disable_animations=true" alt="Estatísticas de Matheus no GitHub" height="150" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=matheustonon1&layout=compact&hide_border=true&bg_color=0E1520&title_color=7EA6FF&text_color=EDF1F7&border_radius=10&disable_animations=true" alt="Linguagens mais usadas por Matheus" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=matheustonon1&show_icons=true&hide_rank=true&hide_border=true&bg_color=0F1524&title_color=8DA1FF&text_color=F1EFE7&icon_color=8DA1FF&border_radius=10&disable_animations=true" />
+    <img src="https://github-stats-extended.vercel.app/api?username=matheustonon1&show_icons=true&hide_rank=true&hide_border=true&bg_color=F5F3EB&title_color=2347F5&text_color=172033&icon_color=2347F5&border_radius=10&disable_animations=true" alt="Estatísticas de Matheus no GitHub" height="150" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=matheustonon1&layout=compact&hide_border=true&bg_color=0F1524&title_color=8DA1FF&text_color=F1EFE7&border_radius=10&disable_animations=true" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=matheustonon1&layout=compact&hide_border=true&bg_color=F5F3EB&title_color=2347F5&text_color=172033&border_radius=10&disable_animations=true" alt="Linguagens mais usadas por Matheus" height="150" />
+  </picture>
 </p>
 
 ## Contato
