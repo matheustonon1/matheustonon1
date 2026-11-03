@@ -95,22 +95,22 @@ Oi, eu sou o Matheus. Estudo Engenharia de Computação e desenvolvo aplicaçõe
 <!--INICIO:atividade-->
 ### Pull requests recentes
 
-- 🟢 <a href="https://github.com/matheustonon1/project_game/pull/1"><strong>feat: visual refeito e duas versões do jogo</strong></a><br>
-  <sub><code>matheustonon1/project_game</code> • 2026-11-02 • aberto</sub>
-- 🟢 <a href="https://github.com/matheustonon1/urban-grid/pull/13"><strong>chore: adiciona o arquivo de licença MIT</strong></a><br>
-  <sub><code>matheustonon1/urban-grid</code> • 2026-11-02 • aberto</sub>
-- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/12"><strong>chore(deps): Next 16.4.4, vulnerabilidades de produção de 11 para 1 e gate de auditoria no CI</strong></a><br>
+- 🟣 <a href="https://github.com/matheustonon1/project_game/pull/2"><strong>docs: corrige o nome da instituição nos READMEs</strong></a><br>
+  <sub><code>matheustonon1/project_game</code> • 2026-11-03 • mesclado</sub>
+- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/15"><strong>test: espera o título voltar antes da varredura de acessibilidade</strong></a><br>
   <sub><code>matheustonon1/urban-grid</code> • 2026-11-02 • mesclado</sub>
-- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/11"><strong>Redesign completo, retorno das ações e confirmações seguras</strong></a><br>
-  <sub><code>matheustonon1/urban-grid</code> • 2026-10-23 • mesclado</sub>
-- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/6"><strong>feat: feed público, moderação, denúncia, antifake, upload de imagem e reforma visual</strong></a><br>
-  <sub><code>matheustonon1/urban-grid</code> • 2026-09-09 • mesclado</sub>
+- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/14"><strong>feat(ui): pista de rolagem nas tabelas e abas que não cabem no celular</strong></a><br>
+  <sub><code>matheustonon1/urban-grid</code> • 2026-11-02 • mesclado</sub>
+- 🟣 <a href="https://github.com/matheustonon1/project_game/pull/1"><strong>feat: visual refeito e duas versões do jogo</strong></a><br>
+  <sub><code>matheustonon1/project_game</code> • 2026-11-02 • mesclado</sub>
+- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/13"><strong>chore: adiciona o arquivo de licença MIT</strong></a><br>
+  <sub><code>matheustonon1/urban-grid</code> • 2026-11-02 • mesclado</sub>
 
 ### Repositórios atualizados
 
-- <a href="https://github.com/matheustonon1/project_game"><code>project_game</code></a> • 2026-11-02<br>
+- <a href="https://github.com/matheustonon1/project_game"><code>project_game</code></a> • 2026-11-03<br>
   <sub>Jogo em Lua com LÖVE, inspirado no minijogo ConSumo de Bully. Criado para a disciplina de Multimídia de Engenharia da Computação.</sub>
-- <a href="https://github.com/matheustonon1/urban-grid"><code>urban-grid</code></a> • 2026-11-02<br>
+- <a href="https://github.com/matheustonon1/urban-grid"><code>urban-grid</code></a> • 2026-11-03<br>
   <sub>Plataforma de reclamações urbanas com resposta pública de órgãos e moderação assistida por IA.</sub>
 - <a href="https://github.com/matheustonon1/algoritmoafd"><code>algoritmoafd</code></a> • 2024-09-02
 <!--FIM:atividade-->
