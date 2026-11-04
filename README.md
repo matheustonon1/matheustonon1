@@ -74,23 +74,23 @@ Oi, eu sou o Matheus. Estudo Engenharia de Computação e desenvolvo aplicaçõe
 <!--INICIO:atividade-->
 ### Pull requests recentes
 
-- 🟣 <a href="https://github.com/matheustonon1/project_game/pull/2"><strong>docs: corrige o nome da instituição nos READMEs</strong></a><br>
-  <sub><code>matheustonon1/project_game</code> • 2026-11-03 • mesclado</sub>
-- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/15"><strong>test: espera o título voltar antes da varredura de acessibilidade</strong></a><br>
-  <sub><code>matheustonon1/urban-grid</code> • 2026-11-02 • mesclado</sub>
-- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/14"><strong>feat(ui): pista de rolagem nas tabelas e abas que não cabem no celular</strong></a><br>
-  <sub><code>matheustonon1/urban-grid</code> • 2026-11-02 • mesclado</sub>
-- 🟣 <a href="https://github.com/matheustonon1/project_game/pull/1"><strong>feat: visual refeito e duas versões do jogo</strong></a><br>
-  <sub><code>matheustonon1/project_game</code> • 2026-11-02 • mesclado</sub>
-- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/13"><strong>chore: adiciona o arquivo de licença MIT</strong></a><br>
-  <sub><code>matheustonon1/urban-grid</code> • 2026-11-02 • mesclado</sub>
+- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/27"><strong>docs(readme): números de teste e trechos do Prisma 7 que ficaram desatualizados</strong></a><br>
+  <sub><code>matheustonon1/urban-grid</code> • 2026-11-04 • mesclado</sub>
+- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/26"><strong>feat(orgaos): índice de reputação conta o que ficou sem resposta</strong></a><br>
+  <sub><code>matheustonon1/urban-grid</code> • 2026-11-04 • mesclado</sub>
+- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/25"><strong>feat(orgaos): admin redefine o 2FA de uma conta de órgão que perdeu o aplicativo</strong></a><br>
+  <sub><code>matheustonon1/urban-grid</code> • 2026-11-04 • mesclado</sub>
+- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/24"><strong>fix(orgao): convite enviado duas vezes ao mesmo tempo não estoura nem sobrescreve a senha</strong></a><br>
+  <sub><code>matheustonon1/urban-grid</code> • 2026-11-04 • mesclado</sub>
+- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/23"><strong>docs: README com CNPJ, 2FA de órgão, avisos, resumo semanal e a nova reputação</strong></a><br>
+  <sub><code>matheustonon1/urban-grid</code> • 2026-11-04 • mesclado</sub>
 
 ### Repositórios atualizados
 
-- <a href="https://github.com/matheustonon1/project_game"><code>project_game</code></a> • 2026-11-03<br>
-  <sub>Jogo em Lua com LÖVE, inspirado no minijogo ConSumo de Bully. Criado para a disciplina de Multimídia de Engenharia da Computação.</sub>
-- <a href="https://github.com/matheustonon1/urban-grid"><code>urban-grid</code></a> • 2026-11-03<br>
+- <a href="https://github.com/matheustonon1/urban-grid"><code>urban-grid</code></a> • 2026-11-04<br>
   <sub>Plataforma de reclamações urbanas com resposta pública de órgãos e moderação assistida por IA.</sub>
+- <a href="https://github.com/matheustonon1/project_game"><code>project_game</code></a> • 2026-11-04<br>
+  <sub>Jogo em Lua com LÖVE, inspirado no minijogo ConSumo de Bully. Criado para a disciplina de Multimídia de Engenharia da Computação.</sub>
 - <a href="https://github.com/matheustonon1/algoritmoafd"><code>algoritmoafd</code></a> • 2024-09-02
 <!--FIM:atividade-->
 
