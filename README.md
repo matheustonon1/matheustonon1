@@ -21,33 +21,6 @@
 
 Oi, eu sou o Matheus. Estudo Engenharia de Computação e desenvolvo aplicações web completas com TypeScript e Next.js, do banco de dados à interface.
 
-## Com o que posso ajudar
-
-<table>
-  <tbody>
-    <tr>
-      <td><strong>Front-end</strong></td>
-      <td>React, Next.js (App Router), Tailwind CSS, tema claro e escuro, interface em mais de um idioma.</td>
-    </tr>
-    <tr>
-      <td><strong>Back-end</strong></td>
-      <td>Route Handlers, Server Actions, validação com Zod, autenticação com Auth.js e segundo fator.</td>
-    </tr>
-    <tr>
-      <td><strong>Dados</strong></td>
-      <td>Modelagem em MySQL com Prisma e migrações versionadas.</td>
-    </tr>
-    <tr>
-      <td><strong>Testes e CI</strong></td>
-      <td>Vitest, Playwright, axe-core e GitHub Actions com auditoria de dependências.</td>
-    </tr>
-    <tr>
-      <td><strong>IA aplicada</strong></td>
-      <td>Moderação de texto e imagem com Gemini, sempre com revisão humana como rede de segurança.</td>
-    </tr>
-  </tbody>
-</table>
-
 ## Projetos em destaque
 
 - <a href="https://github.com/matheustonon1/urban-grid"><img src="https://img.shields.io/static/v1?label=&message=Urban%20Grid&color=2347F5&labelColor=172033&style=flat&logo=nextdotjs&logoColor=F1EFE7" alt="Urban Grid" /></a> - plataforma de reclamações urbanas: cidadãos registram problemas, órgãos públicos respondem oficialmente e quem reclamou avalia a resolução. Tem moderação assistida por IA, 228 testes unitários e 158 testes de ponta a ponta. <a href="https://github.com/matheustonon1/urban-grid/actions/workflows/ci.yml"><img src="https://github.com/matheustonon1/urban-grid/actions/workflows/ci.yml/badge.svg" alt="CI do Urban Grid" align="center" /></a>
