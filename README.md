@@ -74,20 +74,20 @@ Oi, eu sou o Matheus. Estudo Engenharia de Computação e desenvolvo aplicaçõe
 <!--INICIO:atividade-->
 ### Pull requests recentes
 
-- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/35"><strong>chore: devolve painel/actions.ts e painel/conta/actions.ts ao fim de linha LF</strong></a><br>
-  <sub><code>matheustonon1/urban-grid</code> • 2026-11-08 • mesclado</sub>
-- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/34"><strong>feat(ui): barra de tempo nos avisos que somem sozinhos</strong></a><br>
-  <sub><code>matheustonon1/urban-grid</code> • 2026-11-08 • mesclado</sub>
-- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/33"><strong>fix(email): avisar quando o e-mail de verificação não consegue ser enviado</strong></a><br>
-  <sub><code>matheustonon1/urban-grid</code> • 2026-11-08 • mesclado</sub>
-- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/32"><strong>fix(comentarios): comentar voltava &quot;Invalid input&quot; para todo mundo</strong></a><br>
-  <sub><code>matheustonon1/urban-grid</code> • 2026-11-08 • mesclado</sub>
-- 🟣 <a href="https://github.com/matheustonon1/urban-grid/pull/31"><strong>docs(readme): mais capturas de tela (cidadão e moderação por IA)</strong></a><br>
-  <sub><code>matheustonon1/urban-grid</code> • 2026-11-08 • mesclado</sub>
+- 🟢 <a href="https://github.com/devlingoo/devlingo/pull/17"><strong>Conteúdo: Redes e CI/CD (32 desafios) e 2 cursos</strong></a><br>
+  <sub><code>devlingoo/devlingo</code> • 2026-11-10 • aberto</sub>
+- 🟢 <a href="https://github.com/devlingoo/devlingo/pull/16"><strong>Conteúdo: Estruturas de dados (16 desafios), curso e limite de 20 cursos</strong></a><br>
+  <sub><code>devlingoo/devlingo</code> • 2026-11-10 • aberto</sub>
+- 🟢 <a href="https://github.com/devlingoo/devlingo/pull/15"><strong>Conteúdo: Segurança web e Testes automatizados (32 desafios) e 2 cursos</strong></a><br>
+  <sub><code>devlingoo/devlingo</code> • 2026-11-10 • aberto</sub>
+- 🟢 <a href="https://github.com/devlingoo/devlingo/pull/14"><strong>Conteúdo DevOps: Linux e Docker (32 desafios) e curso Linux e Docker</strong></a><br>
+  <sub><code>devlingoo/devlingo</code> • 2026-11-10 • aberto</sub>
+- 🟢 <a href="https://github.com/devlingoo/devlingo/pull/13"><strong>Conteúdo Banco de dados: modelagem (16 desafios) e curso Modelagem de dados</strong></a><br>
+  <sub><code>devlingoo/devlingo</code> • 2026-11-10 • aberto</sub>
 
 ### Repositórios atualizados
 
-- <a href="https://github.com/matheustonon1/urban-grid"><code>urban-grid</code></a> • 2026-11-08<br>
+- <a href="https://github.com/matheustonon1/urban-grid"><code>urban-grid</code></a> • 2026-11-10<br>
   <sub>Plataforma de reclamações urbanas com resposta pública de órgãos e moderação assistida por IA.</sub>
 - <a href="https://github.com/matheustonon1/project_game"><code>project_game</code></a> • 2026-11-04<br>
   <sub>Jogo em Lua com LÖVE, inspirado no minijogo ConSumo de Bully. Criado para a disciplina de Multimídia de Engenharia da Computação.</sub>
