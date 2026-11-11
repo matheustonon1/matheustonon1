@@ -74,16 +74,16 @@ Oi, eu sou o Matheus. Estudo Engenharia de Computação e desenvolvo aplicaçõe
 <!--INICIO:atividade-->
 ### Pull requests recentes
 
-- 🟢 <a href="https://github.com/devlingoo/devlingo/pull/17"><strong>Conteúdo: Redes e CI/CD (32 desafios) e 2 cursos</strong></a><br>
-  <sub><code>devlingoo/devlingo</code> • 2026-11-10 • aberto</sub>
-- 🟢 <a href="https://github.com/devlingoo/devlingo/pull/16"><strong>Conteúdo: Estruturas de dados (16 desafios), curso e limite de 20 cursos</strong></a><br>
-  <sub><code>devlingoo/devlingo</code> • 2026-11-10 • aberto</sub>
-- 🟢 <a href="https://github.com/devlingoo/devlingo/pull/15"><strong>Conteúdo: Segurança web e Testes automatizados (32 desafios) e 2 cursos</strong></a><br>
-  <sub><code>devlingoo/devlingo</code> • 2026-11-10 • aberto</sub>
-- 🟢 <a href="https://github.com/devlingoo/devlingo/pull/14"><strong>Conteúdo DevOps: Linux e Docker (32 desafios) e curso Linux e Docker</strong></a><br>
-  <sub><code>devlingoo/devlingo</code> • 2026-11-10 • aberto</sub>
-- 🟢 <a href="https://github.com/devlingoo/devlingo/pull/13"><strong>Conteúdo Banco de dados: modelagem (16 desafios) e curso Modelagem de dados</strong></a><br>
-  <sub><code>devlingoo/devlingo</code> • 2026-11-10 • aberto</sub>
+- 🟣 <a href="https://github.com/devlingoo/devlingo/pull/21"><strong>Conteúdo: Algoritmos de grafos (16 desafios) e curso</strong></a><br>
+  <sub><code>devlingoo/devlingo</code> • 2026-11-11 • mesclado</sub>
+- 🟣 <a href="https://github.com/devlingoo/devlingo/pull/20"><strong>Conteúdo: TypeScript (16 desafios) e curso, mais um conserto na tela de certificados</strong></a><br>
+  <sub><code>devlingoo/devlingo</code> • 2026-11-10 • mesclado</sub>
+- 🟣 <a href="https://github.com/devlingoo/devlingo/pull/19"><strong>Sugerir subir de nível quando a pessoa vai bem (90% nas últimas 20)</strong></a><br>
+  <sub><code>devlingoo/devlingo</code> • 2026-11-10 • mesclado</sub>
+- 🟣 <a href="https://github.com/devlingoo/devlingo/pull/18"><strong>Resgate: conteúdo dos PRs #12 a #17 que não chegou à main (292 desafios, 13 cursos)</strong></a><br>
+  <sub><code>devlingoo/devlingo</code> • 2026-11-10 • mesclado</sub>
+- 🟣 <a href="https://github.com/devlingoo/devlingo/pull/17"><strong>Conteúdo: Redes e CI/CD (32 desafios) e 2 cursos</strong></a><br>
+  <sub><code>devlingoo/devlingo</code> • 2026-11-10 • mesclado</sub>
 
 ### Repositórios atualizados
 
