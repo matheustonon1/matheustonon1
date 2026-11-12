@@ -74,15 +74,15 @@ Oi, eu sou o Matheus. Estudo Engenharia de Computação e desenvolvo aplicaçõe
 <!--INICIO:atividade-->
 ### Pull requests recentes
 
+- 🟣 <a href="https://github.com/agorismo/fabrica-retrovisores-online/pull/1"><strong>Melhorias</strong></a><br>
+  <sub><code>agorismo/fabrica-retrovisores-online</code> • 2026-11-12 • mesclado</sub>
+- 🟢 <a href="https://github.com/devlingoo/devlingo/pull/22"><strong>Conteúdo: Acessibilidade web (16 desafios) e curso</strong></a><br>
+  <sub><code>devlingoo/devlingo</code> • 2026-11-12 • aberto</sub>
 - 🟣 <a href="https://github.com/devlingoo/devlingo/pull/21"><strong>Conteúdo: Algoritmos de grafos (16 desafios) e curso</strong></a><br>
   <sub><code>devlingoo/devlingo</code> • 2026-11-11 • mesclado</sub>
 - 🟣 <a href="https://github.com/devlingoo/devlingo/pull/20"><strong>Conteúdo: TypeScript (16 desafios) e curso, mais um conserto na tela de certificados</strong></a><br>
   <sub><code>devlingoo/devlingo</code> • 2026-11-10 • mesclado</sub>
 - 🟣 <a href="https://github.com/devlingoo/devlingo/pull/19"><strong>Sugerir subir de nível quando a pessoa vai bem (90% nas últimas 20)</strong></a><br>
-  <sub><code>devlingoo/devlingo</code> • 2026-11-10 • mesclado</sub>
-- 🟣 <a href="https://github.com/devlingoo/devlingo/pull/18"><strong>Resgate: conteúdo dos PRs #12 a #17 que não chegou à main (292 desafios, 13 cursos)</strong></a><br>
-  <sub><code>devlingoo/devlingo</code> • 2026-11-10 • mesclado</sub>
-- 🟣 <a href="https://github.com/devlingoo/devlingo/pull/17"><strong>Conteúdo: Redes e CI/CD (32 desafios) e 2 cursos</strong></a><br>
   <sub><code>devlingoo/devlingo</code> • 2026-11-10 • mesclado</sub>
 
 ### Repositórios atualizados
