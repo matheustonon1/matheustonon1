@@ -74,12 +74,12 @@ Oi, eu sou o Matheus. Estudo Engenharia de Computação e desenvolvo aplicaçõe
 <!--INICIO:atividade-->
 ### Pull requests recentes
 
-- 🟢 <a href="https://github.com/devlingoo/devlingo/pull/25"><strong>Hábito: congelar a sequência e desafio do dia (diario)</strong></a><br>
-  <sub><code>devlingoo/devlingo</code> • 2026-11-13 • aberto</sub>
-- 🟢 <a href="https://github.com/devlingoo/devlingo/pull/24"><strong>Site do Devlingo (Astro 7) com segurança reforçada</strong></a><br>
-  <sub><code>devlingoo/devlingo</code> • 2026-11-13 • aberto</sub>
-- 🟢 <a href="https://github.com/devlingoo/devlingo/pull/23"><strong>Conteúdo: Observabilidade (16 desafios) e curso</strong></a><br>
-  <sub><code>devlingoo/devlingo</code> • 2026-11-13 • aberto</sub>
+- 🟣 <a href="https://github.com/devlingoo/devlingo/pull/25"><strong>Hábito: congelar a sequência e desafio do dia (diario)</strong></a><br>
+  <sub><code>devlingoo/devlingo</code> • 2026-11-13 • mesclado</sub>
+- 🟣 <a href="https://github.com/devlingoo/devlingo/pull/24"><strong>Site do Devlingo (Astro 7) com segurança reforçada</strong></a><br>
+  <sub><code>devlingoo/devlingo</code> • 2026-11-13 • mesclado</sub>
+- 🟣 <a href="https://github.com/devlingoo/devlingo/pull/23"><strong>Conteúdo: Observabilidade (16 desafios) e curso</strong></a><br>
+  <sub><code>devlingoo/devlingo</code> • 2026-11-13 • mesclado</sub>
 - 🟣 <a href="https://github.com/agorismo/fabrica-retrovisores-online/pull/1"><strong>Melhorias</strong></a><br>
   <sub><code>agorismo/fabrica-retrovisores-online</code> • 2026-11-12 • mesclado</sub>
 - 🟣 <a href="https://github.com/devlingoo/devlingo/pull/22"><strong>Conteúdo: Acessibilidade web (16 desafios) e curso</strong></a><br>
